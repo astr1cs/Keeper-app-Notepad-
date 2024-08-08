@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/emojiPedia-basic-reactApp/static/js/main.2835dcda.js",
-    "index.html": "/emojiPedia-basic-reactApp/index.html",
-    "main.2835dcda.js.map": "/emojiPedia-basic-reactApp/static/js/main.2835dcda.js.map"
+    "main.js": "/Keeper-app-Notepad-/static/js/main.2835dcda.js",
+    "index.html": "/Keeper-app-Notepad-/index.html",
+    "main.2835dcda.js.map": "/Keeper-app-Notepad-/static/js/main.2835dcda.js.map"
   },
   "entrypoints": [
     "static/js/main.2835dcda.js"
