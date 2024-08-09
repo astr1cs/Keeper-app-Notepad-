@@ -7,6 +7,29 @@
 body {
   background: #eee;
 }
+.button {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+.btn {
+  width: 130px;
+  height: 30px;
+
+  border-radius: 5px;
+}
+.button input {
+  width: 200px;
+  height: 30px;
+}
+button:hover {
+  background-color: #f5ba13;
+}
+button:active {
+  border: 1px solid #f5ba13;
+}
 header {
   width: 100%;
   padding: 20px 0px;
